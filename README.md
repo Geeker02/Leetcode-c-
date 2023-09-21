@@ -1,4 +1,4 @@
 # Leetcode-c-
 leetcode solution 
 <br>
-Author :- Jaydeep Jogdand
+Author :- Jay Jogdand
